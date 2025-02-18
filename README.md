@@ -1,9 +1,9 @@
 # Experiência Gastronômicas em Londrina
 
 ## Grupo
-* João Victor Carvalho da Silva (The Yellow Dale) 
-* Jean Carlos Isidoro (Arnaldo`s Lanches)- 
-* Lucas Henrique Moraes Costa (Gelobel)- https://github.com/lucashmc/ATIVGRUPO-1-.git
+* João Victor Carvalho da Silva (The Yellow Dale)- https://github.com/CarvalhotoKz/Construindo_um_Site_em_Grupo
+* Jean Carlos Isidoro (Arnaldo`s Lanches)- https://github.com/jean155-jj/AtividadeDesenvolvimento
+* Lucas Henrique Moraes Costa (Gelobel)- https://github.com/lucashmc/ATIVGRUPO-1-
 * Rodrigo Oliveira Da Cruz (Coco Bambu)- https://github.com/RocOliveira/TrabalhoGastronomico
 * Heitor Giussane Dalla Villa (Nacho Man)- https://github.com/HeitorDalla/Restaurante
 
